@@ -1,4 +1,7 @@
-# test coverage for  [gulp-pixrem (v1.0.0)](https://github.com/gummesson/gulp-pixrem)  [![npm package](https://img.shields.io/npm/v/npmtest-gulp-pixrem.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-gulp-pixrem) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-gulp-pixrem.svg)](https://travis-ci.org/npmtest/node-npmtest-gulp-pixrem)
+# npmtest-gulp-pixrem
+
+#### basic test coverage for  [gulp-pixrem (v1.0.0)](https://github.com/gummesson/gulp-pixrem)  [![npm package](https://img.shields.io/npm/v/npmtest-gulp-pixrem.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-gulp-pixrem) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-gulp-pixrem.svg)](https://travis-ci.org/npmtest/node-npmtest-gulp-pixrem)
+
 #### Pixrem plugin for gulp.
 
 [![NPM](https://nodei.co/npm/gulp-pixrem.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/gulp-pixrem)
